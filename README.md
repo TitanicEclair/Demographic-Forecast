@@ -2,9 +2,9 @@
 ## Welcome to Demoraphic-Forecast Repository
 
 ## Contributors
-Ong Hong Xun
-Grover Ekhnoor Kaur
-Madelyn (Marvyn) Chiaching Cruz Tan
+- Ong Hong Xun
+- Grover Ekhnoor Kaur
+- Madelyn (Marvyn) Chiaching Cruz Tan
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial Intelligence). Please refer to the source code in order of:
