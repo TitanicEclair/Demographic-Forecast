@@ -49,14 +49,14 @@ Please follow through this order of notebooks:
 - Checking to see which model is the best at predicting the dependency ratios through factors like gdp.
 
 ## Models Used
-
 1. Linear Regression
-2. Random Forest Regression
+2. Random Forest Regression(RFR)
 3. Gradient Boosting Machine (GBM)
+4. ARIMA model for demographic prediction (not used in final evaluation)
 
 ## Conclusion
 - Using the Random Forest (.feature_importances_), we were able to rank the best features for prediction. This can provide us insights on which indicator would potentially affect different demographics.
-- Comparable to the other 2 models, GBM has a higher predictive accuracy but is also less robust to outliers, comparing to Random Forest.
+- Comparable to the other 2 models (Linreg and RFR), GBM has a higher predictive accuracy but is also less robust to outliers, comparing to Random Forest.
 - Through the ml techniques we were able to predict the child dependency, elderly dependency ratios and total dependency ratios
 - This will help in enabling policy makers to adapt new strategies beforehand through the forecasted data leading to more resilient and sustainable communities
 
@@ -68,3 +68,4 @@ Please follow through this order of notebooks:
 - https://www.kaggle.com/datasets/willianoliveiragibin/progenitus
 - https://www.kaggle.com/code/alejopaullier/gdp-by-country-1999-2022
 - https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
+- https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?view=chart
