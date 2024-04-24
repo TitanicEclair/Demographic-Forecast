@@ -1,5 +1,5 @@
 # Demographic-Forecast
-## Welcome to Demoraphic-Forecast Repository
+## Welcome to Demographic-Forecast Repository
 
 ## Contributors (FCSF TEAM8)
 - Ong Hong Xun
@@ -34,11 +34,11 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial Intelligence).
 You have to only download the main 5 data files 
-    - demographic.csv
-    - GDP by Country 1999-2022.csv
-    - education.csv
-    - healthcare.csv
-    - 1900_2021disasters.csv
+- demographic.csv
+- GDP by Country 1999-2022.csv
+- education.csv
+- healthcare.csv
+- 1900_2021disasters.csv
 The rest are generated through the notebooks
 Please follow through this order of notebooks:
 - [Demographic_initial.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/Demographic_Initial.ipynb)
