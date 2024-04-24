@@ -1,13 +1,13 @@
 # Demographic-Forecast
 ## Welcome to Demoraphic-Forecast Repository
 
-## Contributors
+## Contributors (FCSF TEAM8)
 - Ong Hong Xun
 - Grover Ekhnoor Kaur
 - Madelyn (Marvyn) Chiaching Cruz Tan
 
-School of Computer Science and Engineering
-Nanyang Technological University
+#### School of Computer Science and Engineering
+#### Nanyang Technological University
 
 #### Files present in the repostitory:
 1. **Data Files:**
@@ -44,9 +44,9 @@ Please follow through this order of notebooks:
 1. pip install pmdarima (for Demographic_Initial.ipynb)
 
 ## Problem Definition
-#### In the modern world, population growth is influenced by a myriad of factors ranging from economic conditions to environmental events and governmental policies. 
-#### This understanding helps in crafting better-informed economic, environmental, and social policies that proactively manage resources and mitigate risks.
-#### Checking to see which model is the best at predicting the dependency ratios through factors like gdp.
+- In the modern world, population growth is influenced by a myriad of factors ranging from economic conditions to environmental events and governmental policies.
+- This understanding helps in crafting better-informed economic, environmental, and social policies that proactively manage resources and mitigate risks.
+- Checking to see which model is the best at predicting the dependency ratios through factors like gdp.
 
 ## Models Used
 
@@ -55,13 +55,10 @@ Please follow through this order of notebooks:
 3. Gradient Boosting Machine (GBM)
 
 ## Conclusion
-1.Using the Random Forest (.feature_importances_), we were able to rank the best features for prediction. This can provide us insights on which indicator would potentially affect different demographics. 
-2. Comparable to the other 2 models, GBM has a higher predictive accuracy but is also less robust to outliers, comparing to Random Forest. 
-3.Through the ml techniques we were able to predict the child dependency, elderly dependency ratios and total dependency ratios
-4.this will help in enabling policy makers to adapt new strategies beforehand through the forecasted data leading to more resilient and sustainable communities
-
-
-
+- Using the Random Forest (.feature_importances_), we were able to rank the best features for prediction. This can provide us insights on which indicator would potentially affect different demographics.
+- Comparable to the other 2 models, GBM has a higher predictive accuracy but is also less robust to outliers, comparing to Random Forest.
+- Through the ml techniques we were able to predict the child dependency, elderly dependency ratios and total dependency ratios
+- This will help in enabling policy makers to adapt new strategies beforehand through the forecasted data leading to more resilient and sustainable communities
 
 ## What did we learn from this project?
 1. We learnt new ML techniques such as Gradient Boosting Machine  and Random Forest.
