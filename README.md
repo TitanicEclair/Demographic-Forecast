@@ -69,3 +69,4 @@ Please follow through this order of notebooks:
 - https://www.kaggle.com/code/alejopaullier/gdp-by-country-1999-2022
 - https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
 - https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?view=chart
+- https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?view=chart
