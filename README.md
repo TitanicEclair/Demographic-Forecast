@@ -12,7 +12,31 @@ Nanyang Technological University
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial Intelligence). 
 Files present in the repostitory:
-
+# used in all EDA_Demographic_XXX.ipynb
+demographic.csv
+# used in EDA_Demographic_GDP.ipynb
+GDP by Country 1999-2022.csv
+# used in EDA_Demographic_Government.ipynb
+education.csv
+healthcare.csv
+# used in EDA_Demographic_Disaster.ipynb
+1900_2021disasters.csv
+# Contained initial EDA and ML to forecast future demographics
+EDA_Demographic_initial.ipynb
+# EDA on demographics based off different variables
+EDA_Demographic_GDP.ipynb
+EDA_Demographic_Government.ipynb
+EDA_Demographic_Disaster.ipynb
+#dataframe to csv conversion by the EDA_Demographic_XXX.ipynb notebooks
+Demographic_GDP.csv
+Demographic_Government.csv
+Demographic_Disaster.csv
+# combines all the Demographic_XXX.csv and cleans it before ML
+Data_Combination.ipynb
+# dataframe to csv conversion by Data_Combination.ipynb notebook
+Combined_Data.csv
+# ML techniques used and their evaluations
+ML_Techniques.ipynb
 Please refer to the source code in order of:
 1. Demographic_Initial.ipynb
 2. 
@@ -38,5 +62,5 @@ Please refer to the source code in order of:
 ## What did we learn from this project?
 1. We learnt new ML techniques such as Gradient Boosting Machine  and Random Forest.
 2. We learnt how to incorperate and relate different kinds of data to a specific problem
-3. We learnt
+3. We learnt how to collaborate using github repositories
 ## References
