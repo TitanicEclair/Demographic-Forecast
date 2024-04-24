@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial 
 1. [Data Extraction] // separate file add link to page
 2. // add more separations
 ## Requirements
-1. pip install pmdarima (for DemographicActual.ipynb)
+1. pip install pmdarima (for Demographic_Initial.ipynb)
 
 ## Problem Definition
 
@@ -19,8 +19,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial 
 
 ## Models Used
 
-1. 
-2. 
+1. Linear Regression
+2. Random Forest Regression
+3. Gradient Boosting Machine (GBM)
 
 ## Conclusion
 
