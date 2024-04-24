@@ -39,8 +39,8 @@ You have to only download the main 5 data files
 - education.csv
 - healthcare.csv
 - 1900_2021disasters.csv
-The rest are generated through the notebooks
-Please follow through this order of notebooks:
+##### The rest are generated through the notebooks
+##### Please follow through this order of notebooks:
 - [Demographic_initial.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/Demographic_Initial.ipynb)
 - [EDA_Demographic_GDP.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/EDA_Demographic_GDP.ipynb)
 - [EDA_Demographic_Government.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/EDA_Demographic_Government.ipynb)
