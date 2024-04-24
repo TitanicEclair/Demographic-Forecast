@@ -55,8 +55,12 @@ Please follow through this order of notebooks:
 3. Gradient Boosting Machine (GBM)
 
 ## Conclusion
-1.d
-2.
+1.Using the Random Forest (.feature_importances_), we were able to rank the best features for prediction. This can provide us insights on which indicator would potentially affect different demographics. 
+2. Comparable to the other 2 models, GBM has a higher predictive accuracy but is also less robust to outliers, comparing to Random Forest. 
+3.Through the ml techniques we were able to predict the child dependency, elderly dependency ratios and total dependency ratios
+4.this will help in enabling policy makers to adapt new strategies beforehand through the forecasted data leading to more resilient and sustainable communities
+
+
 
 
 ## What did we learn from this project?
@@ -64,3 +68,6 @@ Please follow through this order of notebooks:
 2. We learnt how to incorperate and relate different kinds of data to a specific problem
 3. We learnt how to collaborate using github repositories
 ## References
+- https://www.kaggle.com/datasets/willianoliveiragibin/progenitus
+- https://www.kaggle.com/code/alejopaullier/gdp-by-country-1999-2022
+- https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
