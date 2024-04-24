@@ -14,9 +14,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial 
 Files present in the repostitory:
 
 Please refer to the source code in order of:
-
-1. [Data Extraction] // separate file add link to page
-2. // add more separations
+1. Demographic_Initial.ipynb
+2. 
 ## Requirements
 1. pip install pmdarima (for Demographic_Initial.ipynb)
 
