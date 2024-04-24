@@ -17,7 +17,7 @@
     - healthcare.csv
     - 1900_2021disasters.csv
 2. **Notebooks for Exploratory Data Analysis (EDA):**
-    - EDA_Demographic_initial.ipynb
+    - Demographic_initial.ipynb
     - EDA_Demographic_GDP.ipynb
     - EDA_Demographic_Government.ipynb
     - EDA_Demographic_Disaster.ipynb
@@ -34,7 +34,7 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial Intelligence). 
 Please follow through this order of notebooks:
-- EDA_Demographic_initial.ipynb
+- Demographic_initial.ipynb
 - EDA_Demographic_GDP.ipynb
 - EDA_Demographic_Government.ipynb
 - EDA_Demographic_Disaster.ipynb
