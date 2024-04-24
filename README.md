@@ -10,7 +10,7 @@
 #### Nanyang Technological University
 
 #### Files present in the repostitory:
-1. **Data Files:**
+1. **Data Files:** 
     - demographic.csv
     - GDP by Country 1999-2022.csv
     - education.csv
@@ -32,7 +32,14 @@
 6. **Notebook for Machine Learning (ML) Techniques and Evaluations:**
     - ML_Techniques.ipynb
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial Intelligence). 
+This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial Intelligence).
+You have to only download the main 5 data files 
+    - demographic.csv
+    - GDP by Country 1999-2022.csv
+    - education.csv
+    - healthcare.csv
+    - 1900_2021disasters.csv
+The rest are generated through the notebooks
 Please follow through this order of notebooks:
 - [Demographic_initial.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/Demographic_Initial.ipynb)
 - [EDA_Demographic_GDP.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/EDA_Demographic_GDP.ipynb)
