@@ -34,14 +34,15 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Analysis and Artificial Intelligence). 
 Please follow through this order of notebooks:
-- Demographic_initial.ipynb
-- EDA_Demographic_GDP.ipynb
-- EDA_Demographic_Government.ipynb
-- EDA_Demographic_Disaster.ipynb
-- Data_Combination.ipynb
-- ML_Techniques.ipynb
+- [Demographic_initial.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/Demographic_Initial.ipynb)
+- [EDA_Demographic_GDP.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/EDA_Demographic_GDP.ipynb)
+- [EDA_Demographic_Government.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/EDA_Demographic_Government.ipynb)
+- [EDA_Demographic_Disaster.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/EDA_Demographic_GDP.ipynb)
+- [Data_Combination.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/Data_Combination.ipynb)
+- [ML_Techniques.ipynb](https://github.com/TitanicEclair/Demographic-Forecast/blob/main/ML_Techniques.ipynb)
 ## Requirements
 1. pip install pmdarima (for Demographic_Initial.ipynb)
+2. pip install dash plotly (for Demographic_Initial.ipynb)
 
 ## Problem Definition
 - In the modern world, population growth is influenced by a myriad of factors ranging from economic conditions to environmental events and governmental policies.
@@ -61,9 +62,10 @@ Please follow through this order of notebooks:
 - This will help in enabling policy makers to adapt new strategies beforehand through the forecasted data leading to more resilient and sustainable communities
 
 ## What did we learn from this project?
-1. We learnt new ML techniques such as Gradient Boosting Machine  and Random Forest.
+1. We learnt new ML techniques such as Gradient Boosting Machine and Random Forest.
 2. We learnt how to incorperate and relate different kinds of data to a specific problem
 3. We learnt how to collaborate using github repositories
+4. We learnt how to use Dash to visualize the data
 ## References
 - https://www.kaggle.com/datasets/willianoliveiragibin/progenitus
 - https://www.kaggle.com/code/alejopaullier/gdp-by-country-1999-2022
